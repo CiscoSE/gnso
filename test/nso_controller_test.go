@@ -26,7 +26,7 @@ import (
 	"testing"
 
 	"github.com/tidwall/gjson"
-	"wwwin-github.cisco.com/charter-account-team/nso_go_controller/integrations"
+	"github.com/CiscoSE/gnso/integrations"
 )
 
 var (

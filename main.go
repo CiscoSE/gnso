@@ -32,8 +32,8 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/status"
-	"wwwin-github.cisco.com/charter-account-team/nso_go_controller/integrations"
-	service "wwwin-github.cisco.com/charter-account-team/nso_go_controller/pb"
+	"github.com/CiscoSE/gnso/integrations"
+	service "github.com/CiscoSE/gnso/pb"
 )
 
 // Variables
